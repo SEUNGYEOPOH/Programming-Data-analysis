@@ -10,6 +10,6 @@
 ## 🐧: What is P&D?
 - A place where i organize what i studied.
 - It's a place to share Python with new people.
-- A place to test the git.hu
+- A place to test the git
 
 ## 🐧🐧 Table of Contents
