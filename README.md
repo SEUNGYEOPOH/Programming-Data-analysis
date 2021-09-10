@@ -11,5 +11,10 @@
 - A place where i organize what i studied.
 - It's a place to share Python with new people.
 - A place to test the git
+<br>
 
 ## 🐧🐧 Table of Contents
+<br>
+
+## 🐧🐧🐧 Soureces and References
+* [파이썬 프로그래밍 2](http://www.kocw.net/home/cview.do?cid=34a2968dc3c32394/)
