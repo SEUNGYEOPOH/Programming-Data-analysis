@@ -17,4 +17,4 @@
 <br>
 
 ## 🐧🐧🐧 Soureces and References
-* [파이썬 프로그래밍 2](http://www.kocw.net/home/cview.do?cid=34a2968dc3c32394/)
+* [KOCW 파이썬 프로그래밍 2 (이동현)](http://www.kocw.net/home/cview.do?cid=34a2968dc3c32394/)
