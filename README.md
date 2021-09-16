@@ -15,10 +15,10 @@
 
 ## 🐧🐧 Table of Contents
 ## 1: **자료형 <br>**
-🌕 First_week : [first_week.ipynb](https://github.com/SEUNGYEOPOH/Python_breakers_RP/blob/main/first_week.ipynb)<br>
+🌕 First_week : [first_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/first_week.ipynb)<br>
 
 ## 2: **군집자료형, 자료형 변환 <br>**
-🌔 Second_week : [second_week.ipynb](https://github.com/SEUNGYEOPOH/Python_breakers_RP/blob/main/second_week.ipynb)<br>
+🌔 Second_week : [second_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/second_week.ipynb)<br>
 ## 3: **군집자료형, 연산자 및 연산자 우선순위<br>**
 
 ## 4: **조건문, 반복문<br>**
