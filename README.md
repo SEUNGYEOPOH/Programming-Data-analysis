@@ -14,25 +14,26 @@
 <br>
 
 ## 🐧🐧 Table of Contents
-1: **자료형 <br>**
+## 1: **자료형 <br>**
+🌕 First_week : [first_week.ipynb](https://github.com/SEUNGYEOPOH/Python_breakers_RP/blob/main/first_week.ipynb)<br>
 
-2: **군집자료형, 자료형 변환 <br>**
+## 2: **군집자료형, 자료형 변환 <br>**
+🌔 Second_week : [second_week.ipynb](https://github.com/SEUNGYEOPOH/Python_breakers_RP/blob/main/second_week.ipynb)<br>
+## 3: **군집자료형, 연산자 및 연산자 우선순위<br>**
 
-3: **군집자료형, 연산자 및 연산자 우선순위<br>**
+## 4: **조건문, 반복문<br>**
 
-4: **조건문, 반복문<br>**
+## 5: **반복문 제어, 함수<br>**
 
-5: **반복문 제어, 함수<br>**
+## 6: **함수, 조건문 반복문 응용<br>**
 
-6: **함수, 조건문 반복문 응용<br>**
+## 7: **조건문 반복문 응용 2<br>**
 
-7: **조건문 반복문 응용 2<br>**
+## 8: **입출력 및 응용<br>**
 
-8: **입출력 및 응용<br>**
+## 9: **파이썬 스타일 코드<br>**
 
-9: **파이썬 스타일 코드<br>**
-
-10: **응용 및 여러가지 라이브러리<br>**
+## 10: **응용 및 여러가지 라이브러리<br>**
 
 <br>
 
