@@ -19,7 +19,7 @@
 
 ## 2: **군집자료형, 자료형 변환 <br>**
 🌔 Second_week : [second_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/second_week.ipynb)<br>
-## 3: **군집자료형, 연산자 및 연산자 우선순위<br>**
+## 3: **연산자 및 연산자 우선순위<br>**
 
 ## 4: **조건문, 반복문<br>**
 
