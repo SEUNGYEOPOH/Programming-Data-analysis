@@ -22,6 +22,8 @@
 ## 3: **연산자 및 연산자 우선순위<br>**
 🌓 Thrid_week : [third_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/third_week.ipynb)<br>
 ## 4: **조건문, 반복문<br>**
+🌒 Fourth_week :[fourth_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/fourth_week.ipynb)<br>
+과제 : [homework1](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/homework1.ipynb)<br>
 
 ## 5: **반복문 제어, 함수<br>**
 
