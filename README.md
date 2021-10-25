@@ -28,6 +28,8 @@
 ## 5: **반복문 제어, 함수<br>**
 :new_moon: Fifth_week : [fifth_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/fifth_week.ipynb)
 ## 6: **함수, 조건문 반복문 응용<br>**
+🌘 Sixth_week : [Sixth_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/sixth_week.ipynb)
+🌘 Sixth_week_2 : [Sixth_week_2.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/sixth_week_2.ipynb)
 
 ## 7: **조건문 반복문 응용 2<br>**
 
