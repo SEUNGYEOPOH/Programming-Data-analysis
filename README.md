@@ -15,14 +15,14 @@
 
 ## 🐧🐧 Table of Contents
 ## 1: **자료형 <br>**
-🌕 First_week : [first_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/first_week.ipynb)<br>
+🌕 First_week : [First_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/first_week.ipynb)<br>
 
 ## 2: **군집자료형, 자료형 변환 <br>**
-🌔 Second_week : [second_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/second_week.ipynb)<br>
+🌔 Second_week : [Second_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/second_week.ipynb)<br>
 ## 3: **연산자 및 연산자 우선순위<br>**
-🌓 Thrid_week : [third_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/third_week.ipynb)<br>
+🌓 Thrid_week : [Third_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/third_week.ipynb)<br>
 ## 4: **조건문, 반복문<br>**
-🌒 Fourth_week :[fourth_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/fourth_week.ipynb)<br>
+🌒 Fourth_week :[Fourth_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/fourth_week.ipynb)<br>
 과제 : [homework1](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/homework1.ipynb)<br>
 
 ## 5: **반복문 제어, 함수<br>**
@@ -32,9 +32,9 @@
 🌘 Sixth_week_2 : [Sixth_week_2.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/sixth_week_2.ipynb)
 
 ## 7: **조건문 반복문 응용 2<br>**
-
+🌑 Seven_week : [Seventh_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/seventh_week.ipynb)
 ## 8: **입출력 및 응용<br>**
-
+🌒 Eighth_week : [Eighth_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/eighth_week.ipynb)
 ## 9: **파이썬 스타일 코드<br>**
 
 ## 10: **응용 및 여러가지 라이브러리<br>**
