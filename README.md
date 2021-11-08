@@ -23,7 +23,7 @@
 🌓 Thrid_week : [Third_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/third_week.ipynb)<br>
 ## 4: **조건문, 반복문<br>**
 🌒 Fourth_week :[Fourth_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/fourth_week.ipynb)<br>
-과제 : [homework1](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/homework1.ipynb)<br>
+ : [homework1](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/homework1.ipynb)<br>
 
 ## 5: **반복문 제어, 함수<br>**
 :new_moon: Fifth_week : [fifth_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/fifth_week.ipynb)
