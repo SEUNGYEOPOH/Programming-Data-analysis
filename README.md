@@ -34,11 +34,17 @@
 
 ## 7: **조건문 반복문 응용 2<br>**
 🌑 Seven_week : [Seventh_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/seventh_week.ipynb)<br>
+
 ## 8: **입출력 및 응용<br>**
 🌒 Eighth_week : [Eighth_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/eighth_week.ipynb)<br>
+🖊️ Homework3 : [homework3](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/homework3.ipynb)<br>
+
 ## 9: **파이썬 스타일 코드<br>**
+🌓 Nineth_week : [nineth_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/nine_week.ipynb)<br>
+🖊️ Homework4 : [homework4](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/homework4.ipynb)<br>
 
 ## 10: **클래스와 모듈<br>**
+🌔 Tenth_week : [tenth_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/tenth_week.ipynb)<br>
 
 <br>
 
