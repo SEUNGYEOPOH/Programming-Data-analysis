@@ -38,7 +38,7 @@
 🌒 Eighth_week : [Eighth_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/eighth_week.ipynb)<br>
 ## 9: **파이썬 스타일 코드<br>**
 
-## 10: *클래스와 모듈<br>**
+## 10: **클래스와 모듈<br>**
 
 <br>
 
