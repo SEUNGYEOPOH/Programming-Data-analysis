@@ -46,6 +46,11 @@
 ## 10: **클래스와 모듈<br>**
 🌔 Tenth_week : [tenth_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/tenth_week.ipynb)<br>
 
+## 11: **모듈 및 패키지와 예외처리<br>**
+🌕 Eleventh_week 1 : [Eleventh_week.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/Eleventh_week.ipynb)<br>
+🌕 Eleventh_week 2 : [Eleventh_week_2.ipynb](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/Eleventh_week_2.ipynb)<br>
+📁 testpack : [TESTPACK](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/tree/main/testpack)<br>
+🖊️ Homework5 : [homework5](https://github.com/SEUNGYEOPOH/Programming_Data-analysis/blob/main/homework5.ipynb)
 <br>
 
 ## 🐧🐧🐧 Soureces and References
